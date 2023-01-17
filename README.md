@@ -2,10 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20Everyone%20👻!&height=100&section=header&animation=fadeIn&fontColor=FFFFF"/>
 </p>
 
+  ![Privatexoxo's profile Views](https://komarev.com/ghpvc/?username=Privatexoxo&style=for-the-badge)
+  
 <h1 align="center">
    Connect Through ...💬
 </h1>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/himasha-herath-811218221/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
@@ -62,6 +63,6 @@ Field of Interest :
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
