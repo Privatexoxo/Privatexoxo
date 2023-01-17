@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20Everyone%20👻!&height=100&section=header&animation=fadeIn&fontColor=FFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20Everyone%20👻!&height=100&section=header&animation=fadeIn"/>
 </p>
 
   ![Privatexoxo's profile Views](https://komarev.com/ghpvc/?username=Privatexoxo&style=for-the-badge)
