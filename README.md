@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20Everyone%20👻!&height=100&section=header&animation=fadeIn"/>
 </p>
 
-  ![Privatexoxo's profile Views](https://komarev.com/ghpvc/?username=Privatexoxo&style=for-the-badge)
+  ![HimashaHerath's profile Views](https://komarev.com/ghpvc/?username=HimashaHerath&style=for-the-badge)
   
 <h1 align="center">
    Connect Through ...💬
@@ -56,9 +56,9 @@ Field of Interest :
 </p>
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/Privatexoxo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Privatexoxo&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Privatexoxo&theme=noctis_minimus&layout=compact" />
+<a href="https://github.com/HimashaHerath">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HimashaHerath&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaHerath&theme=noctis_minimus&layout=compact" />
 </a>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
