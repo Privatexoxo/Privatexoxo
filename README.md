@@ -9,19 +9,17 @@
 </h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/himasha-herath-811218221/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg"/>
 </a>
 <a href="https://twitter.com/himasha_herath">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"/>
 </a>
 <a href="https://www.instagram.com/himasha_47__/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg"/>
 </a>
 </p>
 
-<p align="center">
-  <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-</p>
+[![HimashaHerath's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HimashaHerath&custom_title=My%20Contributions&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -49,10 +47,10 @@ Field of Interest :
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,figma,flask,github,html,java,py,react,rust,selenium,tensorflow,unity" />
+  </a>
 </p>
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
