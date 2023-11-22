@@ -8,7 +8,7 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/himasha-herath-811218221/">
+  <a href="www.linkedin.com/in/himasha-herath>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg"/>
   </a>
   <a href="https://twitter.com/himasha_herath">
