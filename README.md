@@ -29,6 +29,10 @@
   As a passionate Software Engineer from Sri Lanka, I'm constantly diving into new technologies. Here's a glimpse of my journey:
 </p>
 
+<p align="center">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/misc/yaml.svg"/>
+</p>
+
 ```yaml
 Name: Himasha Herath
 Country: Sri Lanka
@@ -39,6 +43,7 @@ Interests:
   - Mobile Application Development
   - Data Science
   - Artificial Intelligence
+```
 <h2 align="center">🛠️ My Toolbox</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=css,figma,flask,github,html,java,py,react,rust,selenium,tensorflow,unity" alt="Tools and Technologies"/>
@@ -53,4 +58,3 @@ Interests:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-```
