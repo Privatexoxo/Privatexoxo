@@ -67,12 +67,10 @@ Currently: Exploring real-time emotion recognition using wearables
 
 <hr>
 
-<h3>📂 Recent Projects</h3>
-<ul>
-  <li><b>Emotion Recognition using Wearables</b> - Real-time emotion detection using physiological data.</li>
-  <li><b>FluxGym</b> - Adaptive gym platform using cutting-edge AI.</li>
-  <li><b>WebUI for OpenAI Models</b> - Hosting and integrating a local WebUI for AI experiments.</li>
-</ul>
+<h3>📊 GitHub Metrics</h3>
+<p align="center">
+  <img src="https://github.com/HimashaHerath/HimashaHerath/blob/main/github-metrics.svg" alt="GitHub Metrics"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
