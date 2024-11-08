@@ -38,18 +38,20 @@
 
 <hr>
 
-<h3>💼 Professional Background</h3>
-<pre>
-Name: Himasha Herath
-Location: Sri Lanka
-Education: BEng (Hons) in Software Engineering
-Skills:
-  - Machine Learning
-  - Web & Mobile Development
-  - Data Science
-  - Artificial Intelligence
-Currently: Exploring real-time emotion recognition using wearables
-</pre>
+<h3 align="center">💼 Professional Background</h3>
+<p align="center">
+  <b>Name:</b> Himasha Herath <br>
+  <b>Location:</b> Sri Lanka <br>
+  <b>Education:</b> BEng (Hons) in Software Engineering <br>
+  <b>Skills:</b>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF5733?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/-Web%20Development-28A745?style=for-the-badge" alt="Web Development"/>
+  <img src="https://img.shields.io/badge/-Mobile%20Development-0078D4?style=for-the-badge" alt="Mobile Development"/>
+  <img src="https://img.shields.io/badge/-Data%20Science-F4B400?style=for-the-badge" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-9B51E0?style=for-the-badge" alt="Artificial Intelligence"/>
+</p>
 
 <hr>
 
