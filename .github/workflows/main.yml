@@ -29,8 +29,11 @@ jobs:
         id: snake-gif
         with:
           github_user_name: HimashaHerath
-          gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+
+      # Ensure the dist directory exists (in case the output step fails to create it)
+      - name: Create dist directory
+        run: mkdir -p dist
 
       # Push the generated files to the `output` branch
       - name: Push changes
