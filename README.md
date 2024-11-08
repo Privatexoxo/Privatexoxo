@@ -21,7 +21,7 @@
 
 <h2 align="center">📊 My GitHub Statistics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimashaHerath&show_icons=true&theme=algolia" alt="HimashaHerath's GitHub Stats" />
+  <img src="https://github-readme-stats-cdsre1isd-himashas-projects.vercel.app/api?username=HimashaHerath&show_icons=true&theme=algolia" alt="HimashaHerath's GitHub Stats" />
 </p>
 
 <h2 align="center">🔭 Exploring New Horizons</h2>
