@@ -3,9 +3,9 @@ name: Metrics
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  # Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
+  # Run workflow when pushing to master/main
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -26,14 +26,17 @@ jobs:
 
       # Generate the snake animation
       - uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: HimashaHerath
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
       # Ensure the dist directory exists (in case the output step fails to create it)
       - name: Create dist directory
         run: mkdir -p dist
+
+      # List contents of the dist directory for debugging
+      - name: List dist contents
+        run: ls -la dist
 
       # Push the generated files to the `output` branch
       - name: Push changes
