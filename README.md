@@ -3,58 +3,77 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HimashaHerath&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=HimashaHerath&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/HimashaHerath?label=Followers" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-success?style=flat-square" alt="Open to Work"/>
 </p>
 
-<h3 align="center">🌐 Connect with Me</h3>
+<hr>
+
+<h3>👋 About Me</h3>
+<p>Hello! I'm <b>Himasha Herath</b>, an innovative Software Engineer from Sri Lanka with a knack for tackling challenges in <b>Machine Learning</b>, <b>Web Development</b>, and <b>Artificial Intelligence</b>. I’m always exploring new technologies to stay ahead in this dynamic field.</p>
+
+<hr>
+
+<h3>🌐 Connect with Me</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/himasha-herath">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg"/>
+  <a href="https://www.linkedin.com/in/himasha-herath" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/himasha_herath">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"/>
+  <a href="https://twitter.com/himasha_herath" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.instagram.com/himasha_47__/">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg"/>
+  <a href="https://www.instagram.com/himasha_47__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
-<h2 align="center">📊 My GitHub Statistics</h2>
+<hr>
+
+<h3>📊 My GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats-git-master-himashas-projects.vercel.app/api?username=HimashaHerath&show_icons=true&theme=algolia" alt="HimashaHerath's GitHub Stats" />
+  <img src="https://github-readme-stats-himashas-projects.vercel.app/api?username=HimashaHerath&show_icons=true&theme=algolia" alt="HimashaHerath's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats-himashas-projects.vercel.app/api/top-langs/?username=HimashaHerath&layout=compact&theme=algolia" alt="Top Languages" width="400"/>
 </p>
 
-<h2 align="center">🔭 Exploring New Horizons</h2>
-<p align="center">
-  As a passionate Software Engineer from Sri Lanka, I'm constantly diving into new technologies. Here's a glimpse of my journey:
-</p>
+<hr>
 
-<p align="center">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/misc/yaml.svg"/>
-</p>
-
-```yaml
+<h3>💼 Professional Background</h3>
+<pre>
 Name: Himasha Herath
-Country: Sri Lanka
-Education: BEng (Hons) Software Engineering
-Interests:
+Location: Sri Lanka
+Education: BEng (Hons) in Software Engineering
+Skills:
   - Machine Learning
-  - Web Development
-  - Mobile Application Development
+  - Web & Mobile Development
   - Data Science
   - Artificial Intelligence
-```
-<h2 align="center">🛠️ My Toolbox</h2>
+Currently: Exploring real-time emotion recognition using wearables
+</pre>
+
+<hr>
+
+<h3>🛠️ My Toolbox</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,figma,flask,github,html,java,py,react,rust,selenium,tensorflow,unity" alt="Tools and Technologies"/>
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,flask,tensorflow,docker,git,html,css,js" alt="My Skills" />
 </p>
-<h2 align="center">👨‍💻 Some of My Contributions</h2>
+
+<hr>
+
+<h3>🔥 Highlights</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=HimashaHerath&theme=github" alt="HimashaHerath's Activity Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=HimashaHerath&theme=github" alt="Activity Graph" />
 </p>
-<p align="center">
-  <img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Commits"/>
-</p>
+
+<hr>
+
+<h3>📂 Recent Projects</h3>
+<ul>
+  <li><b>Emotion Recognition using Wearables</b> - Real-time emotion detection using physiological data.</li>
+  <li><b>FluxGym</b> - Adaptive gym platform using cutting-edge AI.</li>
+  <li><b>WebUI for OpenAI Models</b> - Hosting and integrating a local WebUI for AI experiments.</li>
+</ul>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
